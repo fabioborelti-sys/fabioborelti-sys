@@ -13,7 +13,7 @@ sistemas que resolvem problemas reais do dia a dia da área.
 | Projeto | Descrição |
 |---|---|
 | **[InvHUB](https://github.com/fabioborelti-sys/invhub)** | Sistema web de inventário de T.I. que substituiu uma planilha: etiquetas com QR e código de barras, leitura pelo celular, chat em português e coleta automática de computadores e impressoras. |
-| **[Assinatura Local](https://github.com/fabioborelti-sys/assinatura-local)** | Plataforma de assinatura eletrônica no servidor da empresa, integrada ao InvHUB: termos de equipamento assinados pelo celular, com certificado e verificação pública. |
+| **[Assinatura Local](https://github.com/fabioborelti-sys/assinatura-local)** | Plataforma de assinatura eletrônica que roda dentro da empresa: documentos enviados por link e assinados com o dedo no celular, sem papel e sem mensalidade. |
 
 ### 🛠️ Tecnologias
 
